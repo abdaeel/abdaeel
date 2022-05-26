@@ -195,7 +195,6 @@ kubectl get po,svc,deploy -n portainer
 ```
 https://ip172-18-0-7-bs6kb2bmjflg00fa5g4g-<ADD 30777 HERE>.direct.labs.play-with-k8s.com/
 ```
-![pagina21](resultado.png)
 
 ## Conclusiones
 
